@@ -40,4 +40,4 @@
 We have deprecated functionality in an effort to focus the API
 * p5.Signal
 * p5.SoundFile.processPeaks
-[Uploading p5.js-sound@1.0.0.zip…]()
+
