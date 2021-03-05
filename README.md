@@ -15,11 +15,10 @@
 * Library using features of es6 like `let` , `const` keywords and many other es6+ features.
 * Testing architecture has been made more clean and robust.
 * All above listed improvements are part of [Divyanshu's](https://github.com/endurance21) GSOC-20 Project , more details can be found in his [wrap-up-post](https://github.com/endurance21/GSOC-20-WrapUp).
-* Improvements in pre-commit-hook action  
-  https://github.com/processing/p5.js-sound/pull/574
+* Improvements in pre-commit-hook action  https://github.com/processing/p5.js-sound/pull/574
 
 ## Documentation Improvements 
-* Fixed broken anchor tags in p5.AudioLn
+* Fixed broken anchor tags in p5.Audioln
  https://github.com/processing/p5.js-sound/pull/450	
 * Fixed typo  in p5.fft documentation
   https://github.com/processing/p5.js-sound/pull/433
